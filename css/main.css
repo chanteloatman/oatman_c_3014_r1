@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden{display: none;}
+#mobile-size{width: 320px; margin: 0 auto; background-color: #c79cce; border: solid 2px #6c3c97;}
+
+/*Admin Login and Index Styling*/
+.labelStyle{color: #6c3c97; font-family: Arial, bold; margin-left: 5%;}
+.inputStyle{background-color: #fff; color: #6c3c97; width: 40%; border: solid 3px #6c3c97; margin: 10px 0px 10px 0px; padding: 8px;}
+#welcomeTitleMain{color: #6c3c97; font-family: Arial, bold; font-size: 30px; margin-left: 5%;}
+#submitButton{font-family: Arial; margin-left: 5%; color: #fff; background-color: #6c3c97; padding: 8px 35px 8px 35px; border-radius: 20px; border: solid 4px #fff;margin-top: 20px;}
+
+#morningMsgH{color: #ae7920;}
+#noonMsgH{color: #008000;}
+#eveMsgH{color: #304a7b;}
+#morningMsgP{color: #ae7920;}
+#noonMsgP{color: #008000;}
+#eveMsgP{color: #304a7b;}
+.msgH{font-family: Arial; font-size: 25px; text-align: center;}
+.msgP{font-family: Arial; font-size: 18px; text-align: center;}
+
+body{background-color: #c79cce;}
+
+/*Styling started for later on building onto app*/
+#header{background-color: #c79cce; text-align: center;  border-bottom: solid 4px #6c3c97;}
+#welcomePromo{text-align: center;}
+.titles{color: #6c3c97;}
+#welcomeCategories{clear: both;}
+#welcomeMovies{float: left;}
+#welcomeTv{float: left;}
+#welcomeMusic{float: left;}
+
+#welcomeParents{clear: both; background-color: #c79cce; border-top: solid 4px #6c3c97;  border-bottom: solid 4px #6c3c97;}
+#welcomeParPromo{text-align: center;}
+
+#welcomeKids{background-color: #c79cce; border-top: solid 4px #6c3c97; border-bottom: solid 4px #6c3c97;}
+#welcomeKidsMov{float: left; width: 30%; text-align: center; margin-left: 2%;}
+#welcomeKidsTv{float: left; width: 30%; text-align: center; margin-left: 2%;}
+#welcomeKidsMusic{float: left; width: 30%; text-align: center; padding-left: 2%;}
+
+#kidsMovIconImg{width: 100%;}
+#kidsTvIconImg{width: 100%;}
+#kidsMusicIconImg{width: 100%;}
+
+.button{border-radius: 5px; border: solid 5px; padding: 2px;}
+.movButt{border-color: #304a7b; background-color: #92b6c2; color: #304a7b;}
+.tvButt{border-color: #ae7920; background-color: #cfd86c; color: #ae7920;}
+.musicButt{ border-color: #5b7835; background-color: #a1bc7d; color: #5b7835;}
